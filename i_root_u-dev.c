@@ -5,7 +5,7 @@
  *
  * udev < 1.4.1 local root exploit
  * Written by Ruben Ventura (tr3w)
- *  + the.tr3w[at]gmail.com
+ *  + the.tr3w at gmail dot com
  *
  * vulnerability found by Sebastian Krahmer
  * :: link c0de with ext2fs lib when compiling ::
